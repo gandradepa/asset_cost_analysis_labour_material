@@ -11,7 +11,7 @@ from datetime import datetime
     4. Part IV: Create a bill date dataset: "BOps Labour & Material Cost Analysis_full_info.csv" '''
 
 # Define the network paths
-network_path_bill = r"S:\MaintOpsPlan\AssetMgt\Asset Management Process\Database\1. Cost_Analisys\03. Bill Type\bill_labor_material_date\Current_files"
+network_path_bill = r"S:\MaintOpsPlan\AssetMgt\Asset Management Process\Database\1. Cost_Analisys\03. Bill Type\Current_files"
 network_path_property = r"S:\MaintOpsPlan\AssetMgt\Asset Management Process\Database\4. Asset all data\02. Up to date file\UBC - All Properties List with GPS Coordinates.xlsx"
 network_path_brm = r"S:\MaintOpsPlan\AssetMgt\Asset Management Process\Database\1. Cost_Analisys\01. Cost_files\01. Cost by BRM"
 
